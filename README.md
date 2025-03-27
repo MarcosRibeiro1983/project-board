@@ -1,2 +1,2 @@
-Project board in java with liquidBase
+Project board in java with liquiBase
 
